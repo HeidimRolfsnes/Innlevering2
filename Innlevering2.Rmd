@@ -5,5 +5,3 @@ date: "November 2021"
 output: pdf_document
 lang: nb-NO
 ---
-
-h
