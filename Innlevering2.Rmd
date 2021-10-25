@@ -4,4 +4,5 @@ author: "Av Ann Elisabeth Jacobsen og Heidi Marie Rolfsnes"
 date: "November 2021"
 output: pdf_document
 lang: nb-NO
+Rplot prove.png
 ---
