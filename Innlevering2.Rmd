@@ -1,5 +1,5 @@
 ---
-title: "Does height decide income?"
+title: "Har høyde innvirkning på lønn?"
 author: "Av Ann Elisabeth Jacobsen og Heidi Marie Rolfsnes"
 date: "November 2021"
 output: pdf_document
