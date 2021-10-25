@@ -3,8 +3,6 @@ title: "Does height decide income?"
 Author:  "Av Ann Elisabeth Jacobsen og Heidi Marie Rolfsnes"
 address: "Haugesund, Norge"
 Date: "oktober 2021"
-output:
-bibliography: reproducebility.bib
 lang: nb-NO 
 ---
 
