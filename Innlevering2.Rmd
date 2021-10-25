@@ -1,10 +1,10 @@
 ---
 title: "Does height decide income?"
-Author: "Av Ann Elisabeth Jacobsen og Heidi Marie Rolfsnes"
-address: "Haugesund, Norge"
+author: "Av Ann Elisabeth Jacobsen og Heidi Marie Rolfsnes"
+adress: "Haugesund, Norge"
+date: "oktober 2021"
 output: pdf_document
 lang: nb-NO
-Date: "oktober 2021"
 ---
 
 ha en fin dag. aefkasdlfk
