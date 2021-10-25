@@ -1,5 +1,5 @@
 ---
-title: "Does height decide income? "
+title: "Does height decide income?"
 output: html_notebook
 lang: nb-NO 
 ---
